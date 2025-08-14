@@ -6,7 +6,7 @@ This project demonstrates a clean UI, responsive design, and engaging transition
 ---
 
 ## 🚀 Live Demo  
-[🔗 View Live](https://your-demo-link.com) *(Add your deployed link here)*
+[🔗 View Live](https://your-demo-link.com)
 
 ---
 
@@ -46,3 +46,18 @@ E-learning/
 │   └── index.js        # React DOM rendering
 └── package.json        # Project dependencies
 
+
+---
+
+## 🚀 Getting Started
+
+### 📁 Clone the repository
+
+```bash
+git clone https://github.com/AngeloEsam/E-learning-React.js.git
+cd E-learning
+--
+
+##  Run project
+npm install
+npm run dev
